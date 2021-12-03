@@ -1,3 +1,6 @@
+![Raajeive](https://raw.githubusercontent.com/raajeive/raajeive/main/assets/raajeive_readme.jpg)
+
+
 <h1 align="center">Hi there 👋, I'm Raajeive K</h1>
 <h3 align="center">Research and Development Engineer @ HPE R&D, Bangalore</h3>
 
