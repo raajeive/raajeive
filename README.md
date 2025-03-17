@@ -1,18 +1,15 @@
-![Raajeive](https://raw.githubusercontent.com/raajeive/raajeive/main/assets/raajeive_readme.jpg)
-
-
 <h1 align="center">Hi there 👋, I'm Raajeive K</h1>
 <h3 align="center">Senior Software Engineer @ Orace Cloud Infrastructure</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raajeive&style=flat-square" alt="raajeive" /> </p>
 
-- 🔭 I’m Senior Software Engineer at Oracle Cloud Infrastructure (OCI), building **high-performance** cloud solutions that improve engineering productivity.
-- 🛠 With 5+ years in distributed systems and cloud, I specialize in backend development and performance optimization.
-- 🎓 I completed my BE in Electrical and Electronics **@ PSGiTech**
-- 🌱 I’m currently exploring Machine Learning and Data Mining.
-- 😊 I’m looking for help with **learning anything new!*
-- 💬 Ask me about **anything related to Web Technologies, Programming and High-Performance Distributed Systems.**
+- 🔭 I’m **Senior Software Engineer** at **Oracle Cloud Infrastructure (OCI)**, building **high-performance** cloud solutions that improve engineering productivity.
+- 🛠 With 5+ years in distributed systems and cloud, I specialize in **backend development** and **performance optimization.**
+- 🎓 I completed my **BE** in Electrical and Electronics **@ PSGiTech**
+- 🌱 I’m currently exploring **Machine Learning** and **Data Mining.**
+- 😊 I’m looking for help with **learning anything new!**
+- 💬 Ask me about anything related to **Web Technologies, Programming and High-Performance Distributed Systems.**
 - 📫 How to reach me: **raajeivemsk@gmail.com**
 - 😄 Pronouns: **He/Him**
 - 📄 &nbsp;Please have a look at my [Resume](https://raajeive.github.io/files/Raajeive_K_Resume.pdf) for more details about me.
